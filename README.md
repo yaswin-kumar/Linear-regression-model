@@ -42,13 +42,13 @@ print(predictions)
 - matplotlib
 - pandas
 
+
 🎯 Learning Outcome
 
 - Build an intuition behind the Linear Regression 
 - Known the importance of normalization
 - Model prediction on unseen data
-- <img width="700" height="545" alt="Screenshot 2026-03-19 213017" src="https://github.com/user-attachments/assets/86645dc8-0020-4d7c-8edf-e4815f
-b48307" />
+-<img width="700" height="545" alt="Screenshot 2026-03-19 213017" src="https://github.com/user-attachments/assets/f735fbc4-859c-4f8f-a90d-a5dabe5a1f8f" />
 The cost function/loss function decreases as iterations increasing accordingly in the above image
 <img width="751" height="530" alt="Screenshot 2026-03-19 213643" src="https://github.com/user-attachments/assets/2a491f28-1c1b-4de4-a18c-09a966f65b76" />
 The best Fitted line for the above data is as shown in the above image
